@@ -30,7 +30,6 @@ Installation
 Install the required Python libraries using pip:
 
 bash
-نسخ الكود
 pip install pandas matplotlib
 Usage
 Clone the repository (if applicable) or download the dataset schools.csv and the analysis script.
